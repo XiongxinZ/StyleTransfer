@@ -16,6 +16,10 @@ This is implemented by optimizing the output image to match the content statisti
 
 [Fast Style Transfer for Arbitrary Styles](https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization)
 
+[Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://github.com/magenta/magenta/tree/master/magenta/models/arbitrary_image_stylization)
+
+https://paperswithcode.com/paper/exploring-the-structure-of-a-real-time
+
 ## Data
 
 [Celebrity Photos](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
