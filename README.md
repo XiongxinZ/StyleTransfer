@@ -18,6 +18,8 @@ This is implemented by optimizing the output image to match the content statisti
 
 [Exploring the structure of a real-time, arbitrary neural artistic stylization network](https://github.com/magenta/magenta/tree/master/magenta/models/arbitrary_image_stylization)
 
+[Tensorflow_image_stylization](https://github.com/Robinatp/Tensorflow_image_stylization)
+
 https://paperswithcode.com/paper/exploring-the-structure-of-a-real-time
 
 ## Data
