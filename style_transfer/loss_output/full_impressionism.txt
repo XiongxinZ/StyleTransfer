@@ -1,0 +1,154 @@
+
+full_impressionism:
+Starting iteration 1 of 30
+2021-04-27 17:18:55.432196: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2021-04-27 17:18:55.668251: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+Current loss value: 4616572.5  Improvement : 0.000 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_1.png
+Iteration 1 completed in 15s
+Starting iteration 2 of 30
+Current loss value: 1817427.1  Improvement : 60.633 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_1.png
+Iteration 2 completed in 10s
+Starting iteration 3 of 30
+Current loss value: 1182566.5  Improvement : 34.932 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_1.png
+Iteration 3 completed in 10s
+Starting iteration 4 of 30
+Current loss value: 900222.94  Improvement : 23.875 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_1.png
+Iteration 4 completed in 10s
+Starting iteration 5 of 30
+Current loss value: 744157.7  Improvement : 17.336 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_1.png
+Iteration 5 completed in 10s
+Starting iteration 6 of 30
+Current loss value: 658689.1  Improvement : 11.485 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_6.png
+Iteration 6 completed in 11s
+Starting iteration 7 of 30
+Current loss value: 602997.56  Improvement : 8.455 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_6.png
+Iteration 7 completed in 10s
+Starting iteration 8 of 30
+Current loss value: 562936.6  Improvement : 6.644 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_6.png
+Iteration 8 completed in 10s
+Starting iteration 9 of 30
+Current loss value: 526686.75  Improvement : 6.439 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_6.png
+Iteration 9 completed in 10s
+Starting iteration 10 of 30
+Current loss value: 500155.12  Improvement : 5.037 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_6.png
+Iteration 10 completed in 10s
+Starting iteration 11 of 30
+Current loss value: 474014.9  Improvement : 5.226 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_11.png
+Iteration 11 completed in 10s
+Starting iteration 12 of 30
+Current loss value: 452724.3  Improvement : 4.492 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_11.png
+Iteration 12 completed in 10s
+Starting iteration 13 of 30
+Current loss value: 428082.2  Improvement : 5.443 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_11.png
+Iteration 13 completed in 10s
+Starting iteration 14 of 30
+Current loss value: 410678.3  Improvement : 4.066 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_11.png
+Iteration 14 completed in 10s
+Starting iteration 15 of 30
+Current loss value: 396470.25  Improvement : 3.460 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_11.png
+Iteration 15 completed in 11s
+Starting iteration 16 of 30
+Current loss value: 383141.12  Improvement : 3.362 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_16.png
+Iteration 16 completed in 11s
+Starting iteration 17 of 30
+Current loss value: 370155.47  Improvement : 3.389 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_16.png
+Iteration 17 completed in 11s
+Starting iteration 18 of 30
+Current loss value: 359001.3  Improvement : 3.013 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_16.png
+Iteration 18 completed in 11s
+Starting iteration 19 of 30
+Current loss value: 349070.7  Improvement : 2.766 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_16.png
+Iteration 19 completed in 11s
+Starting iteration 20 of 30
+Current loss value: 341504.2  Improvement : 2.168 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_16.png
+Iteration 20 completed in 11s
+Starting iteration 21 of 30
+Current loss value: 335242.44  Improvement : 1.834 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_21.png
+Iteration 21 completed in 11s
+Starting iteration 22 of 30
+Current loss value: 328353.44  Improvement : 2.055 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_21.png
+Iteration 22 completed in 11s
+Starting iteration 23 of 30
+Current loss value: 323151.62  Improvement : 1.584 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_21.png
+Iteration 23 completed in 11s
+Starting iteration 24 of 30
+Current loss value: 318525.75  Improvement : 1.431 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_21.png
+Iteration 24 completed in 11s
+Starting iteration 25 of 30
+Current loss value: 314264.97  Improvement : 1.338 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_21.png
+Iteration 25 completed in 11s
+Starting iteration 26 of 30
+Current loss value: 309532.94  Improvement : 1.506 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_26.png
+Iteration 26 completed in 11s
+Starting iteration 27 of 30
+Current loss value: 304527.1  Improvement : 1.617 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_26.png
+Iteration 27 completed in 11s
+Starting iteration 28 of 30
+Current loss value: 300292.25  Improvement : 1.391 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_26.png
+Iteration 28 completed in 11s
+Starting iteration 29 of 30
+Current loss value: 290433.88  Improvement : 3.283 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_26.png
+Iteration 29 completed in 11s
+Starting iteration 30 of 30
+Current loss value: 283066.97  Improvement : 2.537 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_impressionism_at_iteration_26.png
+Iteration 30 completed in 11s
