@@ -35,12 +35,20 @@ The CNN model works best when there is a front face with a clear background. For
 ### Method 2
 
 #### Implementation
+Run NeuralStyleTransfer.ipynb.
+This is the notebook from github repo: https://github.com/titu1994/Neural-Style-Transfer. The code of building the network is in INetwork.py. loss_processing .ipynb is used for processing the loss output files. Partial generated image results are in the folder "method2/generated_images". Output files recording the loss are in the folder "method2/loss_output".
 
 #### Structure of Model
+There is a VGG to extract features from images and an optimizier to modify the generated image to reduce the loss. There are three inputs for the VGG network: content image, style image, and a generated image, which could be initialized as a content image, a gray content image, or an image with random noises. The total loss has two parts: content loss and style loss, the weight between these two weights could also be set as a hyperparameter. The generated image is updated in every iteration, and the results get better with a larger number of iterations.
 
 #### Results
+We use the same content and style images as in method 1. The generated image is initialized as the content image and the number of iterations is set as 30. For qualitative evaluation, we could notice there are colors and brushes from certain style images. For quantitative evaluation, we compare the convergence speeds of losses for different style images.
+![](./result/m2.png)
+![](./result/m2_loss.png)
 
 #### Discussion
+Qualitatively, the generated images look similar when the style images have similar colors: Look at the results from style baroque and rococo. Also, the generated images have more content features than styles. The reason is that the initialization is the content image and the number of iterations is relatively small. The generated image should encode more style features with more iterations. Quantitatively, we could notice that different styles have different speeds of convergence for the same content image. Cubism has the highest loss at the first epoch and the loss convergences quickly over 5 iterations. 
+
 
 ### Method 3
 
