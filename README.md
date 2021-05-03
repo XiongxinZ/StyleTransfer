@@ -16,9 +16,33 @@ This is implemented by optimizing the output image to match the content statisti
 
 ### Method 1
 
+#### Implementation
+
+#### Structure of Model
+
+#### Results
+
+#### Discussion
+
 ### Method 2
 
+#### Implementation
+
+#### Structure of Model
+
+#### Results
+
+#### Discussion
+
 ### Method 3
+
+#### Implementation
+
+#### Structure of Model
+
+#### Results
+
+#### Discussion
 
 ## Paper
 
