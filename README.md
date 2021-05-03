@@ -22,6 +22,8 @@ The first cell gives the notebook access to google drive. So if the datasets are
 You may change the file path to get more different results with different styles and contents.
 
 #### Structure of Model
+1 Has a function that cut images from the center, a function that load and resize images and a function that display images.
+The model behind this images is arbitrary neural artistic stylization network. It consists of style transfer network and style prediction network. There are two kinds of losses: style loss and content loss. The model use convolutional networks to minimize the total loss and produces stylized images.
 
 #### Results
 
