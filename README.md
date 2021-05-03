@@ -17,6 +17,9 @@ This is implemented by optimizing the output image to match the content statisti
 ### Method 1
 
 #### Implementation
+Run Model1/style_transfer.ipynb.
+The first cell gives the notebook access to google drive. So if the datasets are put in the google drive, run the first cell first and get access. After that, run all cells left and get results.
+You may change the file path to get more different results with different styles and contents.
 
 #### Structure of Model
 
