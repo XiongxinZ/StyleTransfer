@@ -1,0 +1,153 @@
+side_abstract:
+Starting iteration 1 of 30
+2021-04-27 16:11:28.589830: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2021-04-27 16:11:30.022055: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+Current loss value: 11412781.0  Improvement : 0.000 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_1.png
+Iteration 1 completed in 36s
+Starting iteration 2 of 30
+Current loss value: 4608575.5  Improvement : 59.619 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_1.png
+Iteration 2 completed in 24s
+Starting iteration 3 of 30
+Current loss value: 2899052.8  Improvement : 37.094 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_1.png
+Iteration 3 completed in 24s
+Starting iteration 4 of 30
+Current loss value: 2167604.0  Improvement : 25.231 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_1.png
+Iteration 4 completed in 24s
+Starting iteration 5 of 30
+Current loss value: 1814641.8  Improvement : 16.284 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_1.png
+Iteration 5 completed in 24s
+Starting iteration 6 of 30
+Current loss value: 1565978.0  Improvement : 13.703 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_6.png
+Iteration 6 completed in 24s
+Starting iteration 7 of 30
+Current loss value: 1398139.4  Improvement : 10.718 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_6.png
+Iteration 7 completed in 24s
+Starting iteration 8 of 30
+Current loss value: 1261606.6  Improvement : 9.765 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_6.png
+Iteration 8 completed in 24s
+Starting iteration 9 of 30
+Current loss value: 1152363.6  Improvement : 8.659 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_6.png
+Iteration 9 completed in 24s
+Starting iteration 10 of 30
+Current loss value: 1067180.2  Improvement : 7.392 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_6.png
+Iteration 10 completed in 24s
+Starting iteration 11 of 30
+Current loss value: 1005702.0  Improvement : 5.761 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_11.png
+Iteration 11 completed in 24s
+Starting iteration 12 of 30
+Current loss value: 955635.5  Improvement : 4.978 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_11.png
+Iteration 12 completed in 24s
+Starting iteration 13 of 30
+Current loss value: 915215.2  Improvement : 4.230 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_11.png
+Iteration 13 completed in 24s
+Starting iteration 14 of 30
+Current loss value: 880437.5  Improvement : 3.800 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_11.png
+Iteration 14 completed in 24s
+Starting iteration 15 of 30
+Current loss value: 847057.94  Improvement : 3.791 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_11.png
+Iteration 15 completed in 24s
+Starting iteration 16 of 30
+Current loss value: 818584.4  Improvement : 3.361 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_16.png
+Iteration 16 completed in 24s
+Starting iteration 17 of 30
+Current loss value: 792781.0  Improvement : 3.152 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_16.png
+Iteration 17 completed in 24s
+Starting iteration 18 of 30
+Current loss value: 766524.1  Improvement : 3.312 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_16.png
+Iteration 18 completed in 24s
+Starting iteration 19 of 30
+Current loss value: 747690.5  Improvement : 2.457 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_16.png
+Iteration 19 completed in 24s
+Starting iteration 20 of 30
+Current loss value: 728748.2  Improvement : 2.533 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_16.png
+Iteration 20 completed in 24s
+Starting iteration 21 of 30
+Current loss value: 707671.2  Improvement : 2.892 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_21.png
+Iteration 21 completed in 24s
+Starting iteration 22 of 30
+Current loss value: 691152.9  Improvement : 2.334 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_21.png
+Iteration 22 completed in 24s
+Starting iteration 23 of 30
+Current loss value: 673797.2  Improvement : 2.511 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_21.png
+Iteration 23 completed in 24s
+Starting iteration 24 of 30
+Current loss value: 659817.3  Improvement : 2.075 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_21.png
+Iteration 24 completed in 24s
+Starting iteration 25 of 30
+Current loss value: 648636.4  Improvement : 1.695 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_21.png
+Iteration 25 completed in 24s
+Starting iteration 26 of 30
+Current loss value: 637650.5  Improvement : 1.694 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_26.png
+Iteration 26 completed in 24s
+Starting iteration 27 of 30
+Current loss value: 627244.4  Improvement : 1.632 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_26.png
+Iteration 27 completed in 24s
+Starting iteration 28 of 30
+Current loss value: 615283.7  Improvement : 1.907 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_26.png
+Iteration 28 completed in 24s
+Starting iteration 29 of 30
+Current loss value: 602979.94  Improvement : 2.000 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_26.png
+Iteration 29 completed in 24s
+Starting iteration 30 of 30
+Current loss value: 593292.2  Improvement : 1.607 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer_images/side_abstract_at_iteration_26.png
+Iteration 30 completed in 24s

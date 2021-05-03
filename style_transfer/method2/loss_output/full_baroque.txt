@@ -1,0 +1,152 @@
+Starting iteration 1 of 30
+2021-04-27 17:03:39.402839: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2021-04-27 17:03:39.642556: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+Current loss value: 4536045.5  Improvement : 0.000 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_1.png
+Iteration 1 completed in 15s
+Starting iteration 2 of 30
+Current loss value: 1140918.2  Improvement : 74.848 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_1.png
+Iteration 2 completed in 10s
+Starting iteration 3 of 30
+Current loss value: 653210.6  Improvement : 42.747 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_1.png
+Iteration 3 completed in 10s
+Starting iteration 4 of 30
+Current loss value: 461489.75  Improvement : 29.351 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_1.png
+Iteration 4 completed in 10s
+Starting iteration 5 of 30
+Current loss value: 372078.2  Improvement : 19.375 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_1.png
+Iteration 5 completed in 10s
+Starting iteration 6 of 30
+Current loss value: 312073.72  Improvement : 16.127 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_6.png
+Iteration 6 completed in 10s
+Starting iteration 7 of 30
+Current loss value: 272994.2  Improvement : 12.523 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_6.png
+Iteration 7 completed in 10s
+Starting iteration 8 of 30
+Current loss value: 243858.52  Improvement : 10.673 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_6.png
+Iteration 8 completed in 10s
+Starting iteration 9 of 30
+Current loss value: 222332.38  Improvement : 8.827 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_6.png
+Iteration 9 completed in 10s
+Starting iteration 10 of 30
+Current loss value: 197490.28  Improvement : 11.173 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_6.png
+Iteration 10 completed in 10s
+Starting iteration 11 of 30
+Current loss value: 179256.19  Improvement : 9.233 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_11.png
+Iteration 11 completed in 10s
+Starting iteration 12 of 30
+Current loss value: 169487.1  Improvement : 5.450 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_11.png
+Iteration 12 completed in 10s
+Starting iteration 13 of 30
+Current loss value: 161695.28  Improvement : 4.597 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_11.png
+Iteration 13 completed in 10s
+Starting iteration 14 of 30
+Current loss value: 153896.98  Improvement : 4.823 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_11.png
+Iteration 14 completed in 10s
+Starting iteration 15 of 30
+Current loss value: 146712.17  Improvement : 4.669 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_11.png
+Iteration 15 completed in 10s
+Starting iteration 16 of 30
+Current loss value: 141540.12  Improvement : 3.525 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_16.png
+Iteration 16 completed in 10s
+Starting iteration 17 of 30
+Current loss value: 135231.19  Improvement : 4.457 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_16.png
+Iteration 17 completed in 10s
+Starting iteration 18 of 30
+Current loss value: 130459.27  Improvement : 3.529 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_16.png
+Iteration 18 completed in 10s
+Starting iteration 19 of 30
+Current loss value: 126451.05  Improvement : 3.072 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_16.png
+Iteration 19 completed in 10s
+Starting iteration 20 of 30
+Current loss value: 122498.69  Improvement : 3.126 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_16.png
+Iteration 20 completed in 11s
+Starting iteration 21 of 30
+Current loss value: 119202.09  Improvement : 2.691 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_21.png
+Iteration 21 completed in 11s
+Starting iteration 22 of 30
+Current loss value: 116100.75  Improvement : 2.602 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_21.png
+Iteration 22 completed in 11s
+Starting iteration 23 of 30
+Current loss value: 112973.03  Improvement : 2.694 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_21.png
+Iteration 23 completed in 11s
+Starting iteration 24 of 30
+Current loss value: 110357.234  Improvement : 2.315 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_21.png
+Iteration 24 completed in 11s
+Starting iteration 25 of 30
+Current loss value: 108330.234  Improvement : 1.837 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_21.png
+Iteration 25 completed in 11s
+Starting iteration 26 of 30
+Current loss value: 106625.84  Improvement : 1.573 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_26.png
+Iteration 26 completed in 11s
+Starting iteration 27 of 30
+Current loss value: 104656.055  Improvement : 1.847 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_26.png
+Iteration 27 completed in 11s
+Starting iteration 28 of 30
+Current loss value: 103009.58  Improvement : 1.573 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_26.png
+Iteration 28 completed in 11s
+Starting iteration 29 of 30
+Current loss value: 100937.83  Improvement : 2.011 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_26.png
+Iteration 29 completed in 11s
+Starting iteration 30 of 30
+Current loss value: 98996.17  Improvement : 1.924 %
+Rescaling Image to (500, 380)
+Image saved as /content/gdrive/MyDrive/style_transfer/full_baroque_at_iteration_26.png
+Iteration 30 completed in 11s

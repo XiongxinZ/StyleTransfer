@@ -1,0 +1,153 @@
+front_cubism:
+Starting iteration 1 of 30
+2021-04-27 16:22:37.504036: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcublas.so.10
+2021-04-27 16:22:37.748266: I tensorflow/stream_executor/platform/default/dso_loader.cc:44] Successfully opened dynamic library libcudnn.so.7
+Current loss value: 58924184.0  Improvement : 0.000 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_1.png
+Iteration 1 completed in 16s
+Starting iteration 2 of 30
+Current loss value: 25824810.0  Improvement : 56.173 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_1.png
+Iteration 2 completed in 10s
+Starting iteration 3 of 30
+Current loss value: 16704114.0  Improvement : 35.318 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_1.png
+Iteration 3 completed in 10s
+Starting iteration 4 of 30
+Current loss value: 12565510.0  Improvement : 24.776 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_1.png
+Iteration 4 completed in 10s
+Starting iteration 5 of 30
+Current loss value: 10197369.0  Improvement : 18.846 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_1.png
+Iteration 5 completed in 10s
+Starting iteration 6 of 30
+Current loss value: 8551043.0  Improvement : 16.145 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_6.png
+Iteration 6 completed in 10s
+Starting iteration 7 of 30
+Current loss value: 7405153.0  Improvement : 13.401 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_6.png
+Iteration 7 completed in 10s
+Starting iteration 8 of 30
+Current loss value: 6439215.5  Improvement : 13.044 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_6.png
+Iteration 8 completed in 10s
+Starting iteration 9 of 30
+Current loss value: 5702421.5  Improvement : 11.442 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_6.png
+Iteration 9 completed in 10s
+Starting iteration 10 of 30
+Current loss value: 5151633.5  Improvement : 9.659 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_6.png
+Iteration 10 completed in 10s
+Starting iteration 11 of 30
+Current loss value: 4693444.0  Improvement : 8.894 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_11.png
+Iteration 11 completed in 10s
+Starting iteration 12 of 30
+Current loss value: 4293046.0  Improvement : 8.531 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_11.png
+Iteration 12 completed in 10s
+Starting iteration 13 of 30
+Current loss value: 3969000.2  Improvement : 7.548 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_11.png
+Iteration 13 completed in 10s
+Starting iteration 14 of 30
+Current loss value: 3711232.8  Improvement : 6.495 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_11.png
+Iteration 14 completed in 10s
+Starting iteration 15 of 30
+Current loss value: 3482531.5  Improvement : 6.162 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_11.png
+Iteration 15 completed in 10s
+Starting iteration 16 of 30
+Current loss value: 3272531.8  Improvement : 6.030 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_16.png
+Iteration 16 completed in 11s
+Starting iteration 17 of 30
+Current loss value: 3098424.2  Improvement : 5.320 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_16.png
+Iteration 17 completed in 11s
+Starting iteration 18 of 30
+Current loss value: 2940053.5  Improvement : 5.111 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_16.png
+Iteration 18 completed in 11s
+Starting iteration 19 of 30
+Current loss value: 2808936.8  Improvement : 4.460 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_16.png
+Iteration 19 completed in 11s
+Starting iteration 20 of 30
+Current loss value: 2695303.5  Improvement : 4.045 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_16.png
+Iteration 20 completed in 11s
+Starting iteration 21 of 30
+Current loss value: 2590599.8  Improvement : 3.885 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_21.png
+Iteration 21 completed in 11s
+Starting iteration 22 of 30
+Current loss value: 2480813.5  Improvement : 4.238 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_21.png
+Iteration 22 completed in 11s
+Starting iteration 23 of 30
+Current loss value: 2382817.8  Improvement : 3.950 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_21.png
+Iteration 23 completed in 11s
+Starting iteration 24 of 30
+Current loss value: 2294145.8  Improvement : 3.721 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_21.png
+Iteration 24 completed in 11s
+Starting iteration 25 of 30
+Current loss value: 2217245.5  Improvement : 3.352 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_21.png
+Iteration 25 completed in 11s
+Starting iteration 26 of 30
+Current loss value: 2148863.8  Improvement : 3.084 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_26.png
+Iteration 26 completed in 11s
+Starting iteration 27 of 30
+Current loss value: 2072470.9  Improvement : 3.555 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_26.png
+Iteration 27 completed in 11s
+Starting iteration 28 of 30
+Current loss value: 2015107.6  Improvement : 2.768 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_26.png
+Iteration 28 completed in 10s
+Starting iteration 29 of 30
+Current loss value: 1945074.4  Improvement : 3.475 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_26.png
+Iteration 29 completed in 11s
+Starting iteration 30 of 30
+Current loss value: 1883987.4  Improvement : 3.141 %
+Rescaling Image to (500, 408)
+Image saved as /content/gdrive/MyDrive/style_transfer/front_cubism_at_iteration_26.png
+Iteration 30 completed in 11s
