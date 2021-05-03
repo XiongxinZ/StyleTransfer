@@ -26,6 +26,7 @@ You may change the file path to get more different results with different styles
 The model behind this images is arbitrary neural artistic stylization network. It consists of style transfer network and style prediction network. There are two kinds of losses: style loss and content loss. The model use convolutional networks to minimize the total loss and produces stylized images.
 
 #### Results
+![](.result/m1.png)
 
 #### Discussion
 
