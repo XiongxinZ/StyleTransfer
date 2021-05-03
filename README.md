@@ -6,6 +6,20 @@ Neural style transfer is an optimization technique used to take two images—a c
 
 This is implemented by optimizing the output image to match the content statistics of the content image and the style statistics of the style reference image. These statistics are extracted from the images using a convolutional network.
 
+## Data
+
+[Celebrity Photos](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
+
+[Visual art encyclopedia Wikiart](https://www.wikiart.org/)
+
+## Methods
+
+### Method 1
+
+### Method 2
+
+### Method 3
+
 ## Paper
 
 [Art Nouveau Style Transfer with Face Alignment](http://cs230.stanford.edu/projects_fall_2019/reports/26261057.pdf)
@@ -21,9 +35,3 @@ This is implemented by optimizing the output image to match the content statisti
 [Tensorflow_image_stylization](https://github.com/Robinatp/Tensorflow_image_stylization)
 
 https://paperswithcode.com/paper/exploring-the-structure-of-a-real-time
-
-## Data
-
-[Celebrity Photos](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)
-
-[Visual art encyclopedia Wikiart](https://www.wikiart.org/)
