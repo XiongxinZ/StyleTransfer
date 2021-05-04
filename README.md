@@ -65,7 +65,7 @@ The algorithm derives from [A Closed-form Solution to Photorealistic Image Styli
 
 #### Results
 
-![](./result/m3_evaluation)
+![](./result/m3_evaluation.png)
 We gathered the elapsed time for stylization, smoothing and post-processing. As we can see, the processing time mainly depends on the time for propagation which is one of the smoothing techniques.
 
 #### Discussion
