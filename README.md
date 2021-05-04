@@ -17,7 +17,7 @@ This is implemented by optimizing the output image to match the content statisti
 ### Method 1
 
 #### Implementation
-Run Model1/style_transfer.ipynb.
+Run [style_transfer.ipynb](./method1/style_transfer.ipynb).
 The first cell gives the notebook access to google drive. So if the datasets are put in the google drive, run the first cell first and get access. After that, run all cells left and get results.
 You may change the file path to get more different results with different styles and contents.
 
@@ -35,7 +35,7 @@ The CNN model works best when there is a front face with a clear background. For
 ### Method 2
 
 #### Implementation
-Run NeuralStyleTransfer.ipynb.
+Run [NeuralStyleTransfer.ipynb](./method2/NeuralStyleTransfer.ipynb).
 This is the notebook from github repo: https://github.com/titu1994/Neural-Style-Transfer. The code of building the network is in INetwork.py. loss_processing .ipynb is used for processing the loss output files. Partial generated image results are in the folder "method2/generated_images". Output files recording the loss are in the folder "method2/loss_output".
 
 #### Structure of Model
