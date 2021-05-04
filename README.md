@@ -87,3 +87,13 @@ Qualitatively, photorealistic image stylization is not as good as other neural s
 [Tensorflow_image_stylization](https://github.com/Robinatp/Tensorflow_image_stylization)
 
 https://paperswithcode.com/paper/exploring-the-structure-of-a-real-time
+
+## References
+1. Yeh, Mao-Chuang, et al. "Quantitative evaluation of style transfer." arXiv preprint arXiv:1804.00118 (2018).
+2. https://www.tensorflow.org/hub/tutorials/tf2_arbitrary_image_stylization
+3. Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "A neural algorithm of artistic style." arXiv preprint arXiv:1508.06576 (2015).
+4. https://github.com/titu1994/Neural-Style-Transfer/tree/f8b18a4e6f3d7fb86ed5d2dfb1bae7e89ba48d9d
+5. Li, Yijun, et al. "A closed-form solution to photorealistic image stylization." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+6. https://github.com/NVIDIA/FastPhotoStyle
+7. https://github.com/clovaai/stargan-v2
+
