@@ -36,7 +36,7 @@ The CNN model works best when there is a front face with a clear background. For
 
 #### Implementation
 Run [NeuralStyleTransfer.ipynb](https://github.com/XiongxinZ/StyleTransfer/blob/main/style_transfer/method2/NeuralStyleTransfer.ipynb).
-This is the notebook from github repo: https://github.com/titu1994/Neural-Style-Transfer. The code of building the network is in INetwork.py. loss_processing .ipynb is used for processing the loss output files. Partial generated image results are in the folder "method2/generated_images". Output files recording the loss are in the folder "method2/loss_output".
+This is the notebook from github repo: https://github.com/titu1994/Neural-Style-Transfer. The code of building the network is in INetwork.py. loss_processing .ipynb is used for processing the loss output files. Partial generated image results are in the folder "method2/image_output". Output files recording the loss are in the folder "method2/loss_output".
 
 #### Structure of Model
 There is a VGG to extract features from images and an optimizier to modify the generated image to reduce the loss. There are three inputs for the VGG network: content image, style image, and a generated image, which could be initialized as a content image, a gray content image, or an image with random noises. The total loss has two parts: content loss and style loss, the weight between these two weights could also be set as a hyperparameter. The generated image is updated in every iteration, and the results get better with a larger number of iterations.
@@ -53,7 +53,7 @@ Qualitatively, the generated images look similar when the style images have simi
 
 #### Implementation
 
-Run [PhotoWCT+Smoothing.ipynb](https://github.com/XiongxinZ/StyleTransfer/blob/main/style_transfer/method3/PhotoWCT+Smoothing.ipynb)
+Run [PhotoWCT+Smoothing.ipynb](https://github.com/XiongxinZ/StyleTransfer/blob/main/style_transfer/method3/PhotoWCT%2BSmoothing.ipynb)
 
 The code is derivied from [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle).
 
