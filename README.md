@@ -28,6 +28,8 @@ The model behind this images is arbitrary neural artistic stylization network. I
 #### Results
 Shown in the picture are contents of faces with some noise in the background, profile, bodies and face with a clear background. For styles, we choose abstract, impressionism, cubism baroque and rococo.
 ![](./result/m1.png)
+![](./result/m1_contentloss.png)
+![](./result/m1_styleloss.png)
 
 #### Discussion
 The CNN model works best when there is a front face with a clear background. For different styles, baroque generates the best results because the average loss is the smallest. When there is a profile or a body on the image, the result is not so clear compared to faces. Also, the model does not work on cubism as well as on other styles.
