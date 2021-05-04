@@ -28,8 +28,6 @@ The model behind this images is arbitrary neural artistic stylization network. I
 #### Results
 Shown in the picture are contents of faces with some noise in the background, profile, bodies and face with a clear background. For styles, we choose abstract, impressionism, cubism baroque and rococo.
 ![](./result/m1.png)
-![](./result/m1_contentloss.png)
-![](./result/m1_styleloss.png)
 
 #### Discussion
 The CNN model works best when there is a front face with a clear background. For different styles, baroque generates the best results because the average loss is the smallest. When there is a profile or a body on the image, the result is not so clear compared to faces. Also, the model does not work on cubism as well as on other styles.
@@ -51,16 +49,28 @@ We use the same content and style images as in method 1. The generated image is 
 #### Discussion
 Qualitatively, the generated images look similar when the style images have similar colors: Look at the results from style baroque and rococo. Also, the generated images have more content features than styles. The reason is that the initialization is the content image and the number of iterations is relatively small. The generated image should encode more style features with more iterations. Quantitatively, we could notice that different styles have different speeds of convergence for the same content image. Cubism has the highest loss at the first epoch and the loss convergences quickly over 5 iterations. 
 
-
-### Method 3
+### Method 3 -- Photorealistic Image Stylization
 
 #### Implementation
 
+Run [PhotoWCT+Smoothing.ipynb](./method3/PhotoWCT+Smoothing.ipynb)
+
+The code is derivied from [NVIDIA/FastPhotoStyle](https://github.com/NVIDIA/FastPhotoStyle).
+
 #### Structure of Model
+
+![](./result/m3_structure.png)
+
+The algorithm derives from [A Closed-form Solution to Photorealistic Image Stylization](https://arxiv.org/abs/1802.06474). It keeps the content image photorealistic by applying a smoothing algorithm after a stylization algorithm, which is called photoWCT. It is based on the WCT, short for whitening and coloring transform. It utilizes the VGG-19 model as the encoder and trains a decoder for reconstructing the input image. The decoder is symmetric to the encoder and uses upsampling layers to enlarge the spatial resolutions of the feature maps. Once the auto-encoder is trained, a pair of projection functions are inserted at the network bottleneck to perform stylization through the whitening and coloring transforms. Here, photoWCT replaces the upsampling layers with unpooling layers, which are used together with the max pooling mask.
 
 #### Results
 
+![](./result/m3_evaluation)
+We gathered the elapsed time for stylization, smoothing and post-processing. As we can see, the processing time mainly depends on the time for propagation which is one of the smoothing techniques.
+
 #### Discussion
+
+Qualitatively, photorealistic image stylization is not as good as other neural style tranfer as it maintains the structure of the content. However, if you want to keep photorealistic of the image not being distorted, it will be a better choice for you.
 
 ## Paper
 
